@@ -43,9 +43,9 @@ h6 {
 #topbutton {
 	/* ▼ボタンの表示位置を画面の右下に固定 */
 	position: fixed; /* ←表示場所を固定 */
-	bottom: 6em;   /* ←下端からの距離 */
-	right: 18px;    /* ←右端からの距離 */
-	width: 7em;     /* ←横幅 */
+	bottom: 70px;   /* ←下端からの距離 */
+	right: 10px;    /* ←右端からの距離 */
+	width: 120px;     /* ←横幅 */
 
 	/* ▼最初は非表示にしておく */
 	/*display: none;*/
@@ -74,9 +74,9 @@ h6 {
 #bottombutton {
 	/* ▼ボタンの表示位置を画面の右下に固定 */
 	position: fixed; /* ←表示場所を固定 */
-	bottom: 1em;   /* ←下端からの距離 */
-	right: 18px;    /* ←右端からの距離 */
-	width: 7em;     /* ←横幅 */
+	bottom: 10px;   /* ←下端からの距離 */
+	right: 10px;    /* ←右端からの距離 */
+	width: 120px;     /* ←横幅 */
 
 	/* ▼最初は非表示にしておく */
 	/*display: none;*/
